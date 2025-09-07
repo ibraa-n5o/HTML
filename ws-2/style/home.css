@@ -10,10 +10,6 @@ body{
   height: auto;
 }
 .container-navbar {
-  height: 10px;
-    
-}
-.ul-navbar {
   display:flex;
   background-color:#333;
   justify-content:center;
@@ -27,7 +23,7 @@ body{
 }
 p,a,h2{
   font-family: roboto;
-  font-size: 15px;
+  font-size: 12px;
 }
 a{
   text-decoration: none;
@@ -51,10 +47,9 @@ a{
   border-radius: 30px;
 }
 .container-content {
-  justify-content:center;
-  align-items:center;
-  display: flex;
-  height:100%;
+  width:90%;
+  opacity: 0.4;
+  justify-items: center;
     
 }
 .a-content {
