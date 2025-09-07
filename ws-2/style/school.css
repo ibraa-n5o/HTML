@@ -6,7 +6,7 @@ html {
 }
 body{
   display: grid;
-  grid-template-rows: 50px 1fr 1fr50px;
+  grid-template-rows: 50px 1fr 1fr 50px;
   height: auto;
 }
 .container-navbar {
